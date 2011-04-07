@@ -1,0 +1,2 @@
+content QuickResponse chrome/content/
+overlay chrome://browser/content/pageinfo/pageInfo.xul chrome://QuickResponse/content/ff-overlay.xul
