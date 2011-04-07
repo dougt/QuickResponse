@@ -4,8 +4,8 @@
     <em:id>QuickResponse@dougt.org</em:id>
     <em:type>2</em:type>
     <em:name>QuickResponse</em:name>
-    <em:version>1.0</em:version>
-    <em:creator>Doug TUrner</em:creator>
+    <em:version>1.1</em:version>
+    <em:creator>Doug Turner</em:creator>
     <em:contributor></em:contributor>
     <em:description>Displays a QRCode(tm) in Page Info</em:description>
     <em:targetApplication>
